@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d5e95d6731d22c4bbd159fa27e8a6af, type: 3}
+  m_Name: Uzi
+  m_EditorClassIdentifier: 
+  WeaponName: Uzi
+  WeaponSprite: {fileID: 7482667652216324306, guid: 91ef9465150b8354a9afe65451c17a7a, type: 3}
+  BulletPrefab: {fileID: 5982564435566876474, guid: 91e44227c0675204aac345d9e8600b5b, type: 3}
+  BaseDamage: 5
+  MagazineSize: 15
+  ReloadTime: 2
